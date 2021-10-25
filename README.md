@@ -16,3 +16,5 @@ Or send [✉️](mailto:jt.cope1@gmail.com)
 jacode77/jacode77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- I’m Jacqui, welcome to my github page. I’m currently on a journey to becoming a developer. There may not be a lot going on here right now, but watch this space.
