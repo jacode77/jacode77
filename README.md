@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **a ruby based terminal app**
 - 🌱 I’m currently learning **Ruby, TDD and Git**
 - 👨‍💻 My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
-- 
+
 
 ### **Connect with me**
 ------
