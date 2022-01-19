@@ -3,8 +3,8 @@
 🤓 I’m Jacqui, welcome to my github page. I’m currently on a journey to becoming a developer. There may not be a lot going on here right now, but watch this space
 
 
-- 🔭 I’m currently working on **a ruby based terminal app**
-- 🌱 I’m currently learning **Ruby, TDD and Git**
+- 🔭 I’m currently not working on any projects
+- 🌱 I’m currently learning **Rails, Ruby & Computer Science**
 - 👨‍💻 My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
 
