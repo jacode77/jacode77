@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently not working on any projects
-- 🌱 I’m currently learning **Rails, Ruby & Computer Science**
+- 🌱 I’m currently learning **Rails, Ruby, Heroku & Computer Science**
 - 👨‍💻 My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
 
