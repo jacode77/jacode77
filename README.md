@@ -4,7 +4,7 @@
 
 
  - 🔭 Watch this space.... <!-- I’m currently working on building a two sided market place with rails -->
-- 🌱 I’m currently learning **JavaScript & a pinch of Ruby on Rails**
+- 🌱 I’m currently learning **JavaScript & React**
 - 👨‍💻 My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
 
