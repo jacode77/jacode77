@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi there!
 
 🤓 I’m Jacqui, welcome to my github page. I’m currently on a journey to becoming a developer. There may not be a lot going on here right now, but watch this space
 
