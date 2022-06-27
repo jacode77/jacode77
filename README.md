@@ -7,7 +7,7 @@
 
 In a previous life I worked in Hospitality and HR and have recently discovered an interest for Web Development and UX/UI Design. Pursuing these newly found interests I’ve taken the plunge and am currently on a journey to becoming a Fullstack Developer and am learning the ropes with <a href='https://www.coderacademy.edu.au/'>Coder Academy</a>.
 
-- 🔭 I’m currently working on my portfolio and React
+- 🔭 I’m currently working on mini React projects
 - 🌱 I’m currently learning **JavaScript & React**
 - :woman_technologist: My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
