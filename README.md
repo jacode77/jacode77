@@ -10,7 +10,7 @@ In a previous life I worked in Hospitality and HR and have recently completed a 
 I'm currently seeking a new opportunity as a full stack developer and feeling ready to bring amazing things to life as part of a fun team.
 
 
-- 🔭 I’m currently undertaking some temp work for Wicky
+- 🔭 I’m currently working on a new product feature for Wicky
 - 🌱 I’m currently learning TypeScript
 - :woman_technologist: My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
