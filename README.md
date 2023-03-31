@@ -18,7 +18,7 @@ I'm currently seeking a new opportunity as a full stack developer and feeling re
 ### **Connect with me**
 ------
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jacqui-cope/">
+  <a href="https://www.linkedin.com/in/jacqui-cope/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
