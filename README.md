@@ -5,14 +5,14 @@
 ## Hi there 👋🏻!
 ### I'm Jacqui, welcome to my GitHub page!
 
-In a previous life I worked in Hospitality and HR and have recently completed a Web Development Bootcamp with <a href='https://www.coderacademy.edu.au/'>Coder Academy</a>. In more recent times, I completed a 5 week internship with an Australian sporting tech startup, <a href='https://wicky.ai/'>Wicky</a> where I helped develop a new full stack feature for the site. 
+In a previous life I worked in Hospitality and HR and have recently completed a Web Development Bootcamp with <a href='https://www.coderacademy.edu.au/'>Coder Academy</a>. Following my bootcamp I have been working with Australian sporting tech startup, <a href='https://wicky.ai/'>Wicky</a> where I helped develop a new full stack feature that is currently being used by the Otago Cricket Association. 
 
-I'm currently seeking a new opportunity as a full stack developer and feeling ready to bring amazing things to life as part of a fun team.
+I'm currently working casually with Wicky and am seeking a new full time opportunity as a full stack developer where I can bring amazing things to life as part of a fun team.
 
 
-🔭 I’m currently working on a new product feature for Wicky
+🔭 I’m currently tweaking my existing projects, adding testing to them and working on my project wishlist backlog
 
-🌱 I’m currently learning TypeScript
+🌱 I’m currently learning TDD (Jest)
 
 :woman_technologist: My projects and profile are available at [https://jacqui-cope.netlify.app](https://jacqui-cope.netlify.app)
 
