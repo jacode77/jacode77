@@ -1,7 +1,3 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" height="200px">
-</div>
-
 ## Hi there 👋🏻!
 ### I'm Jacqui, welcome to my GitHub page!
 
